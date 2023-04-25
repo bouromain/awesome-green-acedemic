@@ -1,10 +1,12 @@
 # Awesome green acedemic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-A curated list of [Papers](https://github.com/bouromain/awesome-green-acedemic#papers) & [Reviews](https://github.com/bouromain/awesome-green-acedemic#reviews) about sustainablility in academia
+A curated list of [Papers](https://github.com/bouromain/awesome-green-acedemic#papers), [Reviews](https://github.com/bouromain/awesome-green-acedemic#reviews) and [Books](https://github.com/bouromain/awesome-green-acedemic#books) about sustainablility in academia
 
 This list of papers should provide an overview of publications talking about how scientist and academics can become more sustainable. Additions to this list are welcome! Do not hesitate to do a [pull request](https://github.com/bouromain/awesome-green-acedemic/pulls) in case interesting papers are missing
 
 # Papers
+Urai, Anne E. and Clare Kelly. [**Rethinking academia in a time of climate crisis.**](https://doi.org/10.7554/eLife.84991) eLife 12 (2023)
+
 Racimo, Fernando, Elia Valentini, Gaston Rijo De León, Teresa L Santos, Anna Norberg, Lane M. Atmore, Myranda Murray, Sanja Maria Hakala, Frederik Appel Olsen, Charlie J. Gardner and Julia B. Halder. [**The biospheric emergency calls for scientists to change tactics.**](https://doi.org/10.7554/eLife.83292) eLife 11 (2022)
 
 Capstick, Stuart B., Aaron Thierry, Emily Cox, Oscar Berglund, Steve Westlake and Julia K. Steinberger. [**Civil disobedience by scientists helps press for urgent climate action.**](https://doi.org/10.1038/s41558-022-01461-y) Nature Climate Change 12 (2022)
@@ -21,4 +23,8 @@ Aron, Adam R., Richard B. Ivry, Kate J. Jeffery, Russell A. Poldrack and Anne E.
 # Reviews
 
 Rae CL, Farley M, Jeffery KJ, Urai AE. [**Climate crisis and ecological emergency: Why they concern (neuro)scientists, and what we can do.**](https://doi.org/10.1177/23982128221075430) Brain and Neuroscience Advances. (2022)
+
+
+# Books
+Berg, Maggie and Seeber, Barbara K.. [**The Slow Professor: Challenging the Culture of Speed in the Academy**](https://doi.org/10.3138/9781442663091), Toronto: University of Toronto Press, 2016. 
 
