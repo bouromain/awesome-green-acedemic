@@ -1,6 +1,6 @@
 # Awesome green acedemic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-> A curated list of [Papers](https://github.com/bouromain/awesome-green-acedemic#papers) & [Reviews](https://github.com/bouromain/awesome-green-acedemic#reviews) about sustainablility in academia
+A curated list of [Papers](https://github.com/bouromain/awesome-green-acedemic#papers) & [Reviews](https://github.com/bouromain/awesome-green-acedemic#reviews) about sustainablility in academia
 
 This list of papers should provide an overview of publications talking about how scientist and academics can become more sustainable. Additions to this list are welcome! Do not hesitate to do a [pull request](https://github.com/bouromain/awesome-green-acedemic/pulls) in case interesting papers are missing
 
